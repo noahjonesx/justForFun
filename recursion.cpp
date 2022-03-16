@@ -23,4 +23,3 @@ int main() {
     cout << "The total is equal to: " << total << endl;
     return 0;
 }
-//end of main()
